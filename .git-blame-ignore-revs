@@ -229,3 +229,5 @@ aef9c64cb07c8f828d0dd6e69a5485abf2c43396
 1418a80e0531fba1e01d0ad2a4decdefaed6b365
 # typing: add types to beets.test.helper
 29c887db5bff1cfc4c6ea60505636742fa41cccf
+# Move AttrDict under beets.util
+39782db1dfc5dadaea1c4e07e5c526ba05bf5830
