@@ -237,3 +237,19 @@ ca8e9f69a8a0254aa767dc86f6d808d02f6af05d
 b1701c2e12b2de8e5462affe46ecc6816a5fc508
 # typing: type beets.dbcore.types
 ea3d6af6169d33be009b86bf5607baae7cf9652a
+# typing: type beets.library.exceptions
+2807a64a13c7b36010c20dfae4ee66374daff5ef
+# typing: type beets.library.queries
+a86e02df5470ba88e27cad4d6e8fb5b352e70d0b
+# typing: type Database.path as Path
+c15ef591a99b79606ce0b69f0fb8ef112a862530
+# dbcore: rename Database._fetch to Database.get_results
+5ee36650b1660aef1bfb039814ce9a282f1ae564
+# typing: type beets.library.library
+c56baeb8a553b103b6f33e4a8997c8d9273076d4
+# typing: add return types to beets.library.models
+417c6c880c9e38263762cd40d34562fc77b54796
+# typing: type models in beets.library.models
+dab6543a867b9435f0c12e3b2ed0d27cd5b4ca48
+# typing: type the rest of beets.library.models
+5c0acd078f0c510cefc59c6240f90c950e276d31
